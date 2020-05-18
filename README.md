@@ -1,6 +1,6 @@
 # vpn-install
 Simple PPTP, L2TP/IPsec, OpenVPN installers for fast, user-friendly deployment.
-
+dhcpiup;
 ## Features
 * PPTP, OpenVPN, IPsec VPN support
 * User-friendly installation and configuration process
